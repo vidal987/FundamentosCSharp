@@ -1,0 +1,13 @@
+/home/matheus/www/fundamentosCsharp/Calculator/bin/Debug/netcoreapp3.1/Calculator
+/home/matheus/www/fundamentosCsharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/home/matheus/www/fundamentosCsharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/home/matheus/www/fundamentosCsharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/home/matheus/www/fundamentosCsharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/home/matheus/www/fundamentosCsharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/home/matheus/www/fundamentosCsharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/home/matheus/www/fundamentosCsharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/home/matheus/www/fundamentosCsharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/home/matheus/www/fundamentosCsharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/home/matheus/www/fundamentosCsharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/home/matheus/www/fundamentosCsharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/home/matheus/www/fundamentosCsharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
