@@ -1,0 +1,13 @@
+/home/matheus/www/fundamentosCsharp/structs/bin/Debug/netcoreapp3.1/structs
+/home/matheus/www/fundamentosCsharp/structs/bin/Debug/netcoreapp3.1/structs.deps.json
+/home/matheus/www/fundamentosCsharp/structs/bin/Debug/netcoreapp3.1/structs.runtimeconfig.json
+/home/matheus/www/fundamentosCsharp/structs/bin/Debug/netcoreapp3.1/structs.runtimeconfig.dev.json
+/home/matheus/www/fundamentosCsharp/structs/bin/Debug/netcoreapp3.1/structs.dll
+/home/matheus/www/fundamentosCsharp/structs/bin/Debug/netcoreapp3.1/structs.pdb
+/home/matheus/www/fundamentosCsharp/structs/obj/Debug/netcoreapp3.1/structs.csprojAssemblyReference.cache
+/home/matheus/www/fundamentosCsharp/structs/obj/Debug/netcoreapp3.1/structs.AssemblyInfoInputs.cache
+/home/matheus/www/fundamentosCsharp/structs/obj/Debug/netcoreapp3.1/structs.AssemblyInfo.cs
+/home/matheus/www/fundamentosCsharp/structs/obj/Debug/netcoreapp3.1/structs.csproj.CoreCompileInputs.cache
+/home/matheus/www/fundamentosCsharp/structs/obj/Debug/netcoreapp3.1/structs.dll
+/home/matheus/www/fundamentosCsharp/structs/obj/Debug/netcoreapp3.1/structs.pdb
+/home/matheus/www/fundamentosCsharp/structs/obj/Debug/netcoreapp3.1/structs.genruntimeconfig.cache
