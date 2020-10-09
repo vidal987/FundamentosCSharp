@@ -1,0 +1,13 @@
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/bin/Debug/netcoreapp3.1/valueTypes-ReferenceTypes
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/bin/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.deps.json
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/bin/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.runtimeconfig.json
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/bin/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.runtimeconfig.dev.json
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/bin/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.dll
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/bin/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.pdb
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/obj/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.csprojAssemblyReference.cache
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/obj/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.AssemblyInfoInputs.cache
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/obj/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.AssemblyInfo.cs
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/obj/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.csproj.CoreCompileInputs.cache
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/obj/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.dll
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/obj/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.pdb
+/home/matheus/www/fundamentosCsharp/valueTypes-ReferenceTypes/obj/Debug/netcoreapp3.1/valueTypes-ReferenceTypes.genruntimeconfig.cache
