@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\vidal\Documents\www\FundamentosCSharp\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
