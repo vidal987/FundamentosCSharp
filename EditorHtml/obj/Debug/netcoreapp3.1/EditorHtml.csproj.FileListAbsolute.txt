@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\vidal\Documents\www\FundamentosCSharp\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache
